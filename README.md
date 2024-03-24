@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <h2>Languages-Tools-Libraries</h2>
 <br/>
 <div align="left">
-    <b>Programming: <span class="tab2"/></b><img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,bash,cmake" /><br>
+    <b>Programming: &emsp;</b><img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,bash,cmake" /><br>
     <b>Operating Systems: <span class="tab2"/></b><img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,windows" /><br>
     <b>Frameworks and Tools: <span class="tab2"/></b><img src="https://skillicons.dev/icons?i=ros,opencv,pytorch,tensorflow,unity,postgres" /><br>
     <b>Version Control: <span class="tab2"/></b><img src="https://skillicons.dev/icons?i=docker,github,git,jenkins" /><br>
