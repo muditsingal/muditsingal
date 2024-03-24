@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <h2>Languages-Tools-Libraries</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,bash,cmake" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,windows" /><br>
-    <img src="https://skillicons.dev/icons?i=ros,opencv,pytorch,tensorflow,unity,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,github,git,jenkins" /><br>
-    <b>Editors:</b><img src="https://skillicons.dev/icons?i=vscode,arduino,anaconda,latex,visualstudio,sublime"/><br>
+    <b>Programming:             </b><img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,bash,cmake" /><br>
+    <b>Operating Systems:       </b><img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,windows" /><br>
+    <b>Frameworks and Tools:    </b><img src="https://skillicons.dev/icons?i=ros,opencv,pytorch,tensorflow,unity,postgres" /><br>
+    <b>Version Control:         </b><img src="https://skillicons.dev/icons?i=docker,github,git,jenkins" /><br>
+    <b>Editors:                 </b><img src="https://skillicons.dev/icons?i=vscode,arduino,anaconda,latex,visualstudio,sublime"/><br>
 
       <!-- Custom Skill Badges -->
 
