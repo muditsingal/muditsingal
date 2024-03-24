@@ -20,32 +20,17 @@ Here are some ideas to get you started:
 -  I am currently a graduate student at University of Maryland, College Park currently studying Robotics.
 -  I received my bachelor degree at the [Department of Electronics and Telecommunication](https://www.coep.org.in/departments/entc), College of Engineering, Pune in 2020.
 
-<head>
-    <style>
-        .tab1 {
-            tab-size: 2;
-        }
-
-        .tab2 {
-            tab-size: 4;
-        }
-
-        .tab4 {
-            tab-size: 8;
-        }
-    </style>
-</head>
 
 [![Mudit's GitHub stats](https://github-readme-stats.vercel.app/api?username=muditsingal&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h2>Languages-Tools-Libraries</h2>
+<h2>Languages, Tools, and Libraries</h2>
 <br/>
 <div align="left">
-    <b>Programming: &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;</b><img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,bash,cmake" /><br>
-    <b>Operating Systems: &emsp;&emsp;&emsp;&emsp;&ensp;</b><img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,windows" /><br>
-    <b>Frameworks and Tools: &emsp;&emsp;&emsp;</b><img src="https://skillicons.dev/icons?i=ros,opencv,pytorch,tensorflow,unity,postgres" /><br>
-    <b>Version Control: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</b><img src="https://skillicons.dev/icons?i=docker,github,git,jenkins" /><br>
+    <b>Programming: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;</b><img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,bash,cmake" /><br>
+    <b>Operating Systems: &emsp;&emsp;&emsp;&ensp;</b><img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,windows" /><br>
+    <b>Frameworks and Tools: &emsp;&emsp;</b><img src="https://skillicons.dev/icons?i=ros,opencv,pytorch,tensorflow,unity,postgres" /><br>
+    <b>Version Control: &emsp;&emsp;&emsp;&emsp;&emsp;</b><img src="https://skillicons.dev/icons?i=docker,github,git,jenkins" /><br>
     <b>Editors: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</b><img src="https://skillicons.dev/icons?i=vscode,arduino,anaconda,latex,visualstudio,sublime"/><br>
 
 </div>
