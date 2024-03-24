@@ -23,6 +23,20 @@ Here are some ideas to get you started:
 
 [![Mudit's GitHub stats](https://github-readme-stats.vercel.app/api?username=muditsingal&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<h2>Languages-Tools-Libraries</h2>
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,bash,cmake" /><br>
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,unity" /><br>
+    <img src="https://skillicons.dev/icons?i=github,anaconda,mysql,arduino,git,codecov,latex" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,vscode,linux,archlinux,visualstudio" />
+      <!-- Custom Skill Badges -->
+
+</div>
+
+
+
 <!--
 Related source is copied from: https://kilienazure.com/github-profile-readme/
 -->
