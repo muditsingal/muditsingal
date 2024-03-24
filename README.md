@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,bash,cmake" /><br>
-    <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,unity" /><br>
-    <img src="https://skillicons.dev/icons?i=github,anaconda,mysql,arduino,git,codecov,latex" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,vscode,linux,archlinux,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,windows" /><br>
+    <img src="https://skillicons.dev/icons?i=ros,opencv,pytorch,tensorflow,unity,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,github,git,jenkins" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,arduino,anaconda,latex,visualstudio,sublime"><b>Editors:</b></img><br>
+
       <!-- Custom Skill Badges -->
 
 </div>
