@@ -1,27 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **muditsingal/muditsingal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
--  I am Mudit Singal.
--  Pronouns: He/Him
--  I am currently a graduate student at University of Maryland, College Park currently studying Robotics.
--  I received my bachelor degree at the [Department of Electronics and Telecommunication](https://www.coep.org.in/departments/entc), College of Engineering, Pune in 2020.
+## About Mudit Singal:
 
-
-[![Mudit's GitHub stats](https://github-readme-stats.vercel.app/api?username=muditsingal&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+A highly motivated Robotics Engineer with a Master's degree in Robotics from the University of Maryland and a Bachelor's in Electronics and Telecommunication Engineering from COEP, India. Proficient in programming languages including C, C++, Python, MATLAB, and SQL, along with expertise in various software tools and frameworks such as ROS, Git, Gazebo, Docker, and TensorFlow. Experience includes contributing to autonomous e-scooter development, independent research in autonomous vehicles, and implementing control modules for for autonomous mobile robots. Skilled in leading and executing projects encompassing navigation, path planning, and perception algorithms, showcasing proficiency in Agile methodologies and best software development practices.
 
 
 <h2>Languages, Tools, and Libraries</h2>
@@ -35,6 +21,8 @@ Here are some ideas to get you started:
 
 </div>
 
+
+[![Mudit's GitHub stats](https://github-readme-stats.vercel.app/api?username=muditsingal&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
