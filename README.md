@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,windows" /><br>
     <img src="https://skillicons.dev/icons?i=ros,opencv,pytorch,tensorflow,unity,postgres" /><br>
     <img src="https://skillicons.dev/icons?i=docker,github,git,jenkins" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,arduino,anaconda,latex,visualstudio,sublime"><b>Editors:</b></img><br>
+    <b>Editors:</b><img src="https://skillicons.dev/icons?i=vscode,arduino,anaconda,latex,visualstudio,sublime"/><br>
 
       <!-- Custom Skill Badges -->
 
