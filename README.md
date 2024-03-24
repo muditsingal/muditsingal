@@ -21,6 +21,8 @@ A highly motivated Robotics Engineer with a Master's degree in Robotics from the
 
 </div>
 
+<br>
+<br>
 
 [![Mudit's GitHub stats](https://github-readme-stats.vercel.app/api?username=muditsingal&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
